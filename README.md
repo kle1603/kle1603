@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm Le Bao Khang - Front End Developer</h1>
 <h3 align="center">Where there is a will, there is a way.</h3>
 <br/> 
-#💫 About Me:
+# 💻 Tech Stack:
 🔭 I’m currently studying on FPT University<br>🌱 I’m currently learning ReactJS
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100073038232794) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bkhang1603/) 
