@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Le Bao Khang - Front End Developer</h1>
 <h3 align="center">Where there is a will, there is a way.</h3>
 <br/> 
-# 💫 About Me:
+#💫 About Me:
 🔭 I’m currently studying on FPT University<br>🌱 I’m currently learning ReactJS
 
 
