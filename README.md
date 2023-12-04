@@ -3,6 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently studying on FPT University<br>🌱 I’m currently learning ReactJS
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100073038232794) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bkhang1603/) 
 
@@ -14,9 +15,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kle1603&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kle1603&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kle1603&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
